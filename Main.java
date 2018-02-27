@@ -10,5 +10,9 @@ public class Main {
 		escuela.agregarAlumnos(alumno);
 		escuela.agregarProfesor(profesor);
 		System.out.println(escuela);
+
+
+
+		
 	}	
 }
